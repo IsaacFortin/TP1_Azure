@@ -40,4 +40,6 @@ if __name__ == "__main__":
         print("C'est un triangle carre")
     else:
         print("C'est pas un triangle carre")
+    input("Entrer pour finir")
+
 
